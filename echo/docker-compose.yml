@@ -1,0 +1,10 @@
+version: "3.7"
+
+services:
+  app_proxy:
+    environment:
+      APP_HOST: echo_server_1
+      APP_PORT: 8080
+  
+  server:
+    image: mendhak/http-https-echo:24@sha256:383b3c04d6e83c2557ce049ab10d46bae4fb6c4e4e4ce420a1f2902381220318

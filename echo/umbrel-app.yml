@@ -1,0 +1,22 @@
+manifestVersion: 1
+id: echo
+category: Networking
+name: Echo
+version: "1.3.9"
+tagline: Echo Echo Echo
+description: >-
+  A simple HTTP echo server
+developer: Mendhak
+website: https://example.com
+dependencies: []
+repo: https://github.com/example/echo
+support: https://github.com/example/echo/issues
+port: 41414
+gallery:
+  - 1.jpg
+  - 2.jpg
+  - 3.jpg
+path: ""
+defaultUsername: ""
+defaultPassword: ""
+torOnly: false
