@@ -1,5 +1,6 @@
 manifestVersion: 1
 id: nevets963-echo
+icon: "https://i.pinimg.com/originals/94/e8/9e/94e89e7e029d3f63419fc9b89a9c5d42.jpg"
 category: Networking
 name: Echo
 version: "1.3.9"
@@ -13,9 +14,9 @@ repo: https://github.com/example/echo
 support: https://github.com/example/echo/issues
 port: 41414
 gallery:
-  - 1.jpg
-  - 2.jpg
-  - 3.jpg
+  - "https://static.giga.de/wp-content/uploads/2019/12/Gruene-Idylle-rcm850x478u.jpg"
+  - "https://media.gcflearnfree.org/ctassets/topics/40/xp_desktop.jpg"
+  - "https://upload.wikimedia.org/wikipedia/en/6/64/Windows_XP_Luna.png"
 path: ""
 defaultUsername: ""
 defaultPassword: ""
